@@ -8635,11 +8635,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Vladimir Trajkovic\\source\\repos\\fpis\\fpis\\fpis.csproj",
+      "projectUniqueName": "C:\\Users\\Vladimir Trajkovic\\Desktop\\Projekti\\FPIS\\fpis-backend\\fpis.csproj",
       "projectName": "fpis",
-      "projectPath": "C:\\Users\\Vladimir Trajkovic\\source\\repos\\fpis\\fpis\\fpis.csproj",
+      "projectPath": "C:\\Users\\Vladimir Trajkovic\\Desktop\\Projekti\\FPIS\\fpis-backend\\fpis.csproj",
       "packagesPath": "C:\\Users\\Vladimir Trajkovic\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Vladimir Trajkovic\\source\\repos\\fpis\\fpis\\obj\\",
+      "outputPath": "C:\\Users\\Vladimir Trajkovic\\Desktop\\Projekti\\FPIS\\fpis-backend\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"

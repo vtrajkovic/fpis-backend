@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "U8hzfL8ZZ83PuDb3kAAPqGx36YGQzr7keWjPZUmRnYBT+gkkNLU1bq2B2LjCEsVOuvcjVfM9tavgTXdHkWX+oQ==",
+  "dgSpecHash": "yH/3tAbNrTGj5NEGxNt4/8gjPKKSRExDmkHKihvzPiIrf+WgW3dClK9xOCR8pT+Tki+PUOpTetREF0aIeBoXmA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Vladimir Trajkovic\\source\\repos\\fpis\\fpis\\fpis.csproj",
+  "projectFilePath": "C:\\Users\\Vladimir Trajkovic\\Desktop\\Projekti\\FPIS\\fpis-backend\\fpis.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Vladimir Trajkovic\\.nuget\\packages\\microsoft.aspnetcore.html.abstractions\\2.2.0\\microsoft.aspnetcore.html.abstractions.2.2.0.nupkg.sha512",
     "C:\\Users\\Vladimir Trajkovic\\.nuget\\packages\\microsoft.aspnetcore.razor\\2.2.0\\microsoft.aspnetcore.razor.2.2.0.nupkg.sha512",
